@@ -1,6 +1,6 @@
 {
-  "short_name": "Skooner",
-  "name": "Skooner - Kubernetes Dashboard",
+  "short_name": "DeepMD",
+  "name": "DeepMD - Kubernetes Dashboard",
   "icons": [
     {
       "src": "logo.png",
